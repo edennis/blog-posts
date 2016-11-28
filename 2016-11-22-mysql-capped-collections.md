@@ -2,7 +2,7 @@
 layout: post
 title:  "Chicken or the Egg?"
 date:   2016-11-28 16:54:57 +0100
-categories: mysql
+published: false
 ---
 I currently work for a German social networking site for business professionals
 called [XING](https://www.xing.com).  As you can probably imagine, a member
