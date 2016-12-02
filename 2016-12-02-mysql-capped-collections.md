@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Capped Collections in MySQL"
-date:   2016-12-02 16:54:57 +0100
+date:   2016-12-02 12:54:57 +0100
 ---
 I currently work for a German social networking site for business professionals
 called [XING](https://www.xing.com).  As you can probably imagine, a member
