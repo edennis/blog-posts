@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Chicken or the Egg?"
-date:   2016-11-28 16:54:57 +0100
-published: false
+title:  "Capped Collections in MySQL"
+date:   2016-12-02 16:54:57 +0100
 ---
 I currently work for a German social networking site for business professionals
 called [XING](https://www.xing.com).  As you can probably imagine, a member
@@ -12,7 +11,8 @@ of interesting challenges to solve.
 
 Not too long ago we were given the task to
 evaluate various technical solutions for a feature which would potentially cause
-up to 50 million records to be written per day.  What I'd like to show you is a solution that we came up with for MySQL.
+up to 50 million records to be written per day.  What I'd like to show you is a
+proof of concept that we came up with for MySQL.
 
 For the sake of simplicity, I'll model the problem as follows:
 
